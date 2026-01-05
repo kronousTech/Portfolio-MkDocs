@@ -1,0 +1,46 @@
+site_name: João Santos Portfolio
+
+extra_css:
+- stylesheets/custom.css
+- stylesheets/slider.css
+extra_javascript:
+- javascripts/slider.js
+
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: green
+      accent: deep purple
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: green
+      accent: deep purple
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - content.code.copy
+    - content.code.annotate
+    - content.code.line_numbers
+    - search.suggest
+    - search.highlight
+  
+
+    
+nav: 
+  - Home: index.md
+  - Asset Store Products:
+    - Script Dependency Viewer: asset-store-products/script-viewer.md
+    - WebGL FullScreen Template: asset-store-products/webgl-fullscreen-template.md
+  #- Custom Packages: 
+    #- How to install: custom-packages/how-to-install.md
+    #- Available Packages: custom-packages/available-packages-urls.md
