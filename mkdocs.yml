@@ -1,7 +1,6 @@
 site_name: João Santos Portfolio
 
 extra_css:
-- stylesheets/custom.css
 - stylesheets/slider.css
 extra_javascript:
 - javascripts/slider.js
@@ -34,13 +33,26 @@ theme:
     - search.suggest
     - search.highlight
   
-
-    
 nav: 
-  - Home: index.md
-  - Asset Store Products:
+  - 📢 Home: index.md
+  - 💼 Projects: 
+    - Hivolve 2020 - 2022:
+      - About: projects/hivolve/hivolve-about.md
+      - Adira VR: projects/hivolve/adira-vr.md
+      - Empigest: projects/hivolve/empigest.md
+      - Essani: projects/hivolve/essani.md
+      - Gold Energy: projects/hivolve/gold-energy.md
+      - Grandola AR: projects/hivolve/grandola-ar.md
+      - Grandola Mupi: projects/hivolve/grandola-mupi.md
+      - Grandola VR: projects/hivolve/grandola-vr.md
+      - Ooty: projects/hivolve/ooty.md
+      - Party Golf: projects/hivolve/party-golf.md
+      - Sabseg: projects/hivolve/sabseg.md
+      - Siroco: projects/hivolve/siroco.md
+      - Superbock: projects/hivolve/superbock.md
+      - Valongo 360: projects/hivolve/valongo-360.md
+  - 🛒 Asset Store Products:
+    - Home: asset-store-products/asset-store-products-home.md
     - Script Dependency Viewer: asset-store-products/script-viewer.md
     - WebGL FullScreen Template: asset-store-products/webgl-fullscreen-template.md
-  #- Custom Packages: 
-    #- How to install: custom-packages/how-to-install.md
-    #- Available Packages: custom-packages/available-packages-urls.md
+  - 🎮 Interactive Portfolio: interactive-portfolio.md
