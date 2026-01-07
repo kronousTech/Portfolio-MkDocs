@@ -11,7 +11,7 @@ Unity Developer
 ## Client
 Essani is specialized in customized lighting products and services for the furniture and architecture industry, as well as for industrial automation.
 
-- [Linkedin](https://www.linkedin.com/company/essani-inovação-tecnológica/?originalSubdomain=pt)
+- [LinkedIn](https://www.linkedin.com/company/essani-inovação-tecnológica/?originalSubdomain=pt)
 - [Website](https://essani.pt)
 
 ## Overview

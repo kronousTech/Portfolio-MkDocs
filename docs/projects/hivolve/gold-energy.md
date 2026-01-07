@@ -13,7 +13,7 @@ Unity Developer
 ## Client
 Goldenergy is a Portuguese company in the free energy market. It offers electricity and gas tariffs for both individual customers and businesses, allowing them to choose either one or both of the energy services.
 
-- [Linkedin](https://www.linkedin.com/company/goldenergy/)
+- [LinkedIn](https://www.linkedin.com/company/goldenergy/)
 
 ## Overview
 This compact project was created for a sustainable energy company within a tight three-day deadline. The objective was to craft an adventure for Goldy the gorilla. The result was an endless runner, drawing inspiration from games like Subway Surfers. Players control Goldy as they navigate side-to-side, jump, and roll to avoid obstacles, represented by a rolling tree trunk. The game features basic mechanics and employs randomly generated obstacles for a dynamic experience.

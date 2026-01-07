@@ -12,7 +12,7 @@ Unity Developer
 ## Client
 EMPIGEST started its activity in 2007, as a result of the enormous desire of a group of professionals in the forklift market to create a different project, based on the quality of the services provided, regardless of the brands assisted and the size of the customer.
 
-- [Linkedin](https://www.linkedin.com/company/empigest---comércio-e-serviços-de-máquinas-industriais-lda/)
+- [LinkedIn](https://www.linkedin.com/company/empigest---comércio-e-serviços-de-máquinas-industriais-lda/)
 
 ## Overview
 This project was designed with the intent of showcasing the operational prowess of EMPIGEST's autonomous machines—innovative technologies that function seamlessly without the necessity of direct human control.

@@ -12,7 +12,7 @@ Unity Developer
 ## Client
 ADIRA is a leading manufacturer and global supplier of sheet metal working machinery, specialized in the production of laser cutting machines, hydraulic press brakes, shears, robotized bending cells and automatic sheet metal transforming systems.
 
-- [Linkedin](https://www.linkedin.com/company/adirametalformingsolutions/)
+- [LinkedIn](https://www.linkedin.com/company/adirametalformingsolutions/)
 
 ## Overview
 This project, for HTC Vive, was developed to showcase the client's machinery in intricate detail. The experience unfolds through dynamic animations, allowing users to witness the machines in action. Moreover, the immersive environment empowers users to actively engage with the machinery, allowing them to learn about the production process.
