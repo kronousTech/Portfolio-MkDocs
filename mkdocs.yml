@@ -43,9 +43,11 @@ nav:
       - Mower Mayhem: projects/fisipgroup/mower-mayhem.md  
     - CodeImpact 2023 - 2023:
       - About: projects/codeimpact/about-codeimpact.md
+      - Drum Keyboard VR: projects/codeimpact/drum-keyboard.md
       - Drone Strike VR: projects/codeimpact/drone-strike-vr.md
     - Codeverze 2022 - 2024:
       - About: projects/codeverze/about-codeverze.md
+      - Store: projects/codeverze/online-store.md
     - Hivolve 2020 - 2022:
       - About: projects/hivolve/about-hivolve.md
       - Adira VR: projects/hivolve/adira-vr.md

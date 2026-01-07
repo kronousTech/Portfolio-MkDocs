@@ -28,10 +28,28 @@ If placing the word wasn't feasible, I sought a new position. In cases of repeat
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_5.png">
-  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_2.png">
-  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_3.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/screenshot_5.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/screenshot_2.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/screenshot_3.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+
+### Clay Game
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-mupi/barro.mp4"
+  type="video/mp4">
+</video>
+
+### Info Game
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-mupi/info.mp4"
+  type="video/mp4">
+</video>
+
+### Word-Soup Game 
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-mupi/words.mp4"
+  type="video/mp4">
+</video>

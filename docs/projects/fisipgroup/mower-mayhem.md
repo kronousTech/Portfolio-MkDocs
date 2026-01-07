@@ -35,3 +35,9 @@ Through careful planning, consistent testing, and collaboration, I successfully 
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+
+### Gameplay
+<video controls preload="metadata" width="100%">
+  <source src="../../../content/projects/fisipgroup/mower-mayhem/gameplay.mp4"
+  type="video/mp4">
+</video>

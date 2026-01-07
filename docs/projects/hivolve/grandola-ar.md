@@ -25,10 +25,18 @@ To ensure reliable tracking, we implemented a 3-second timer. This way, if the m
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/grandola-ar/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/grandola-ar/Screenshot_2.png">
-  <img src="../../../content/projects/hivolve/grandola-ar/Screenshot_3.png">
-  <img src="../../../content/projects/hivolve/grandola-ar/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/grandola-ar/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/grandola-ar/screenshot_2.png">
+  <img src="../../../content/projects/hivolve/grandola-ar/screenshot_3.png">
+  <img src="../../../content/projects/hivolve/grandola-ar/screenshot_4.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+<video controls preload="metadata" width="100%">
+  <source src="../../../content/projects/hivolve/grandola-ar/grandola_ar_part_1.mp4"
+  type="video/mp4">
+</video>
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-ar/grandola_ar_part_2.mp4"
+  type="video/mp4">
+</video>

@@ -23,10 +23,28 @@ To address this challenge, I devised a script encompassing all scene tasks, iter
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_3.png">
-  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_2.png">
-  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/screenshot_3.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/screenshot_2.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/screenshot_4.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+
+### Part 1
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-vr/part_1.mp4"
+  type="video/mp4">
+</video>
+
+### Part 2
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-vr/part_2.mp4"
+  type="video/mp4">
+</video>
+
+### Part 3
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/grandola-vr/part_3.mp4"
+  type="video/mp4">
+</video>

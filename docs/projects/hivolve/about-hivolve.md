@@ -5,6 +5,8 @@
 
 hivolve develops XR (VR/AR/MR) experiences to increase business performance. With businesses in Europe & America, working closely with HR, Sales or Marketing executives, hivolve develops solutions for the most renowned private companies and public entities.
 
+*No longer in active.*
+
 - [LinkedIn](https://www.linkedin.com/company/hivolve/)
 
 ## My Experience

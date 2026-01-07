@@ -23,8 +23,8 @@ To address this, we implemented a solution by incorporating a render texture int
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/valongo-360/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/valongo-360/Screenshot_2.png">
+  <img src="../../../content/projects/hivolve/valongo-360/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/valongo-360/screenshot_2.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

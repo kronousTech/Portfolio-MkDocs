@@ -25,11 +25,17 @@ Being my first mobile game I've developed at the time, it inspired me to learn m
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/party-golf/Gameplay.png">
-  <img src="../../../content/projects/hivolve/party-golf/level-select.jpg">
-  <img src="../../../content/projects/hivolve/party-golf/local-multiplayer.png">
-  <img src="../../../content/projects/hivolve/party-golf/MainMenu.png">
-  <img src="../../../content/projects/hivolve/party-golf/Shop.png">
+  <img src="../../../content/projects/hivolve/party-golf/gameplay.png">
+  <img src="../../../content/projects/hivolve/party-golf/level_select.jpg">
+  <img src="../../../content/projects/hivolve/party-golf/local_multiplayer.png">
+  <img src="../../../content/projects/hivolve/party-golf/main_menu.png">
+  <img src="../../../content/projects/hivolve/party-golf/shop.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+
+### Gameplay
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/party-golf/gameplay_showcase.mp4"
+  type="video/mp4">
+</video>

@@ -29,11 +29,17 @@ To address the optimization challenges, we opted to display only one machine at 
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/siroco/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/siroco/Screenshot_2.png">
-  <img src="../../../content/projects/hivolve/siroco/Screenshot_3.png">
-  <img src="../../../content/projects/hivolve/siroco/Screenshot_4.png">
-  <img src="../../../content/projects/hivolve/siroco/Screenshot_5.png">
+  <img src="../../../content/projects/hivolve/siroco/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/siroco/screenshot_2.png">
+  <img src="../../../content/projects/hivolve/siroco/screenshot_3.png">
+  <img src="../../../content/projects/hivolve/siroco/screenshot_4.png">
+  <img src="../../../content/projects/hivolve/siroco/screenshot_5.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
+
+### Machine Transition
+<video controls preload="metadata" width="100%">
+    <source src="../../../content/projects/hivolve/siroco/transition.mp4"
+  type="video/mp4">
+</video>

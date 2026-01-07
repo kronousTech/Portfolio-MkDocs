@@ -29,10 +29,10 @@ To improve performance, several LOD's were created for the models present in the
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/adira-vr/Screenshot_1.png">
-  <img src="../../../content/projects/hivolve/adira-vr/Screenshot_2.png">
-  <img src="../../../content/projects/hivolve/adira-vr/Screenshot_3.png">
-  <img src="../../../content/projects/hivolve/adira-vr/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/adira-vr/screenshot_1.png">
+  <img src="../../../content/projects/hivolve/adira-vr/screenshot_2.png">
+  <img src="../../../content/projects/hivolve/adira-vr/screenshot_3.png">
+  <img src="../../../content/projects/hivolve/adira-vr/screenshot_4.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
