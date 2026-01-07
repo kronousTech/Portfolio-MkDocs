@@ -12,5 +12,5 @@ If you prefer a more interactive portfolio you can find more info here: [🎮 In
 ## Contacts
 - 📧 joaosantosprofi@protonmail.com
 - 🔗[GitHub](https://github.com/kronousTech)
-- 🔗[LinkedIn](www.linkedin.com/in/joão-santos-104182189)
+- 🔗[LinkedIn](https://www.linkedin.com/in/joão-santos-104182189)
 - 🔗[UpWork](https://www.upwork.com/freelancers/~0123e3d22d308b137c)

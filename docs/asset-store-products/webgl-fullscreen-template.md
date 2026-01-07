@@ -22,5 +22,5 @@ In the process of publishing my package on the Unity Asset Store, I gained valua
 
 ## Media
 <div class="slider">
-  <img src="../../../content/asset-store-products/webgl-fullscreen-template/page.png">
+  <img src="../../../content/asset-store-products/webgl-fullscreen-template/card_image.png">
 </div>
