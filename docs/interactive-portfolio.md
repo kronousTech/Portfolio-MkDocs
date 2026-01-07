@@ -24,9 +24,9 @@ Furthermore, it offers exceptional scalability. When the need arises to include 
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="../../../content/interactive-portfolio/screenshot_1.png">
-  <img src="../../../content/interactive-portfolio/screenshot_2.png">
-  <img src="../../../content/interactive-portfolio/screenshot_3.png">
+  <img src="../content/interactive-portfolio/screenshot_1.png">
+  <img src="../content/interactive-portfolio/screenshot_2.png">
+  <img src="../content/interactive-portfolio/screenshot_3.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
