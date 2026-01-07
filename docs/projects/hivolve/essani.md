@@ -29,12 +29,12 @@ To address the optimization and build size concerns, I began by reducing the qua
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/essani/Factory 1 2.png">
-  <img src="/content/projects/hivolve/essani/Factory 1.png">
-  <img src="/content/projects/hivolve/essani/House 1 2.png">
-  <img src="/content/projects/hivolve/essani/House 1.png">
-  <img src="/content/projects/hivolve/essani/Store 1 2.png">
-  <img src="/content/projects/hivolve/essani/Store 1.png">
+  <img src="../../../content/projects/hivolve/essani/Factory 1 2.png">
+  <img src="../../../content/projects/hivolve/essani/Factory 1.png">
+  <img src="../../../content/projects/hivolve/essani/House 1 2.png">
+  <img src="../../../content/projects/hivolve/essani/House 1.png">
+  <img src="../../../content/projects/hivolve/essani/Store 1 2.png">
+  <img src="../../../content/projects/hivolve/essani/Store 1.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

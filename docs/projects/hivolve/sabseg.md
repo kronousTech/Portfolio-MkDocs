@@ -29,7 +29,7 @@ To comprehend the intricacies of the SteamVR plugin, I extensively read its docu
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/sabseg/Screenshot_5.png">
+  <img src="../../../content/projects/hivolve/sabseg/Screenshot_5.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

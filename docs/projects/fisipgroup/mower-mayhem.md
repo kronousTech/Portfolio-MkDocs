@@ -28,10 +28,10 @@ Through careful planning, consistent testing, and collaboration, I successfully 
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/fisipgroup/mower-mayhem/p1.png">
-  <img src="/content/projects/fisipgroup/mower-mayhem/p2.png">
-  <img src="/content/projects/fisipgroup/mower-mayhem/p3.png">
-  <img src="/content/projects/fisipgroup/mower-mayhem/p4.png">
+  <img src="../../../content/projects/fisipgroup/mower-mayhem/p1.png">
+  <img src="../../../content/projects/fisipgroup/mower-mayhem/p2.png">
+  <img src="../../../content/projects/fisipgroup/mower-mayhem/p3.png">
+  <img src="../../../content/projects/fisipgroup/mower-mayhem/p4.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

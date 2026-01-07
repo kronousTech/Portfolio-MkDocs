@@ -35,10 +35,10 @@ To enable this app to utilize both ARKit and ARCore plugins, I invested consider
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/ooty/House 1.png">
-  <img src="/content/projects/hivolve/ooty/House 2.png">
-  <img src="/content/projects/hivolve/ooty/House Editor.png">
-  <img src="/content/projects/hivolve/ooty/Interior View.png">
+  <img src="../../../content/projects/hivolve/ooty/House 1.png">
+  <img src="../../../content/projects/hivolve/ooty/House 2.png">
+  <img src="../../../content/projects/hivolve/ooty/House Editor.png">
+  <img src="../../../content/projects/hivolve/ooty/Interior View.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

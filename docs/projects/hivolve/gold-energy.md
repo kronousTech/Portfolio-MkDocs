@@ -29,9 +29,9 @@ The incorporation of random obstacles posed both an entertaining and challenging
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/gold-energy/Screenshot_3.png">
-  <img src="/content/projects/hivolve/gold-energy/Screenshot_4.png">
-  <img src="/content/projects/hivolve/gold-energy/Screenshot_5.png">
+  <img src="../../../content/projects/hivolve/gold-energy/Screenshot_3.png">
+  <img src="../../../content/projects/hivolve/gold-energy/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/gold-energy/Screenshot_5.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

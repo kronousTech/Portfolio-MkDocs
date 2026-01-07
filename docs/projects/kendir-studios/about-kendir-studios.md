@@ -1,6 +1,6 @@
 # KendirStudios
 <div class="slider">
-  <img src="/content/projects/kendir-studios/kendir_studios_cover.jpg">
+  <img src="../../../content/projects/kendir-studios/kendir_studios_cover.jpg">
 </div>
 
 Educational role playing games and world building development studio based in Porto. Spinning-off Schoolers & Scholars, a research project aimed at identifying and testing the impact of RPGs in education, we are a team dedicated to building massive year-long games for different subjects and integrating educational contents and pedagogical objectives into the narrative and the worlds built.

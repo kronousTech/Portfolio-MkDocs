@@ -1,6 +1,6 @@
 # hivolve
 <div class="slider">
-  <img src="/content/projects/hivolve/hivolve_cover.jpg">
+  <img src="../../../content/projects/hivolve/hivolve_cover.jpg">
 </div>
 
 hivolve develops XR (VR/AR/MR) experiences to increase business performance. With businesses in Europe & America, working closely with HR, Sales or Marketing executives, hivolve develops solutions for the most renowned private companies and public entities.

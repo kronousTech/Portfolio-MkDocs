@@ -30,7 +30,7 @@ To aid in model placement, we developed a script that calculated the distance be
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/superbock/SuperBockImage.png">
+  <img src="../../../content/projects/hivolve/superbock/SuperBockImage.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

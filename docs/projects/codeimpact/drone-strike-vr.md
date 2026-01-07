@@ -20,6 +20,6 @@ Unity Developer
 
 ## Media
 <video controls preload="metadata" width="100%">
-  <source src="/content/projects/codeimpact/drone-strike-vr/explanation.mp4"
+  <source src="../../../content/projects/codeimpact/drone-strike-vr/explanation.mp4"
   type="video/mp4">
 </video>

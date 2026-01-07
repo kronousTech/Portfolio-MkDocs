@@ -29,11 +29,11 @@ To address the optimization challenges, we opted to display only one machine at 
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/siroco/Screenshot_1.png">
-  <img src="/content/projects/hivolve/siroco/Screenshot_2.png">
-  <img src="/content/projects/hivolve/siroco/Screenshot_3.png">
-  <img src="/content/projects/hivolve/siroco/Screenshot_4.png">
-  <img src="/content/projects/hivolve/siroco/Screenshot_5.png">
+  <img src="../../../content/projects/hivolve/siroco/Screenshot_1.png">
+  <img src="../../../content/projects/hivolve/siroco/Screenshot_2.png">
+  <img src="../../../content/projects/hivolve/siroco/Screenshot_3.png">
+  <img src="../../../content/projects/hivolve/siroco/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/siroco/Screenshot_5.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

@@ -28,10 +28,10 @@ If placing the word wasn't feasible, I sought a new position. In cases of repeat
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/grandola-mupi/Screenshot_5.png">
-  <img src="/content/projects/hivolve/grandola-mupi/Screenshot_1.png">
-  <img src="/content/projects/hivolve/grandola-mupi/Screenshot_2.png">
-  <img src="/content/projects/hivolve/grandola-mupi/Screenshot_3.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_5.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_1.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_2.png">
+  <img src="../../../content/projects/hivolve/grandola-mupi/Screenshot_3.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

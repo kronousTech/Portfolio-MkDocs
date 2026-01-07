@@ -1,6 +1,6 @@
 # CodeImpact
 <div class="slider">
-  <img src="/content/projects/codeimpact/codeimpact_cover.jpg">
+  <img src="../../../content/projects/codeimpact/codeimpact_cover.jpg">
 </div>
 
 CodeImpact is a Netherlands-based software and recruitment agency dedicated to helping brands achieve growth, reduce costs, and develop enterprise solutions utilizing the latest technologies. Our motto, "The web is our playground," reflects our passion for merging talent and technology to produce impressive results.

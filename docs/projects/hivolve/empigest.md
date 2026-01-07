@@ -29,8 +29,8 @@ To tackle this issue, I had to enhance my programming skills and develop the beh
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/empigest/Scenario_1.png">
-  <img src="/content/projects/hivolve/empigest/Scenario_2.png">
+  <img src="../../../content/projects/hivolve/empigest/Scenario_1.png">
+  <img src="../../../content/projects/hivolve/empigest/Scenario_2.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>

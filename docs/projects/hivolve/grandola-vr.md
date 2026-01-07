@@ -23,10 +23,10 @@ To address this challenge, I devised a script encompassing all scene tasks, iter
 ## Media
 <div class="slider">
   <button class="prev"><-</button>
-  <img src="/content/projects/hivolve/grandola-vr/Screenshot_3.png">
-  <img src="/content/projects/hivolve/grandola-vr/Screenshot_1.png">
-  <img src="/content/projects/hivolve/grandola-vr/Screenshot_2.png">
-  <img src="/content/projects/hivolve/grandola-vr/Screenshot_4.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_3.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_1.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_2.png">
+  <img src="../../../content/projects/hivolve/grandola-vr/Screenshot_4.png">
   <button class="next">-></button>
   <div class="counter"></div>
 </div>
