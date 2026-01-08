@@ -38,6 +38,8 @@ nav:
   - 💼 Projects:
     - KendirStudios 2025 - Present:
       - About: projects/kendir-studios/about-kendir-studios.md
+      - Reds 2 3 4: projects/kendir-studios/reds.md
+      - Farol: projects/kendir-studios/farol.md
     - FisipGroup 2023 - 2024:
       - About: projects/fisipgroup/about-fisipgroup.md
       - Mower Mayhem: projects/fisipgroup/mower-mayhem.md  
@@ -47,7 +49,7 @@ nav:
       - Drone Strike VR: projects/codeimpact/drone-strike-vr.md
     - Codeverze 2022 - 2024:
       - About: projects/codeverze/about-codeverze.md
-      - Store: projects/codeverze/online-store.md
+      - Virtual Store: projects/codeverze/virtual-store.md
     - Hivolve 2020 - 2022:
       - About: projects/hivolve/about-hivolve.md
       - Adira VR: projects/hivolve/adira-vr.md
