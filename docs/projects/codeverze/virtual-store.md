@@ -13,6 +13,8 @@ Unity Developer
 ## Overview
 Codeverze was a platform that allowed clients to upload products online, which were then displayed within the Codeverze WebGL build as part of an interactive online store. The application was designed to showcase multiple online shops within a shared virtual environment, enabling users to browse products and make purchases directly inside the virtual world.
 
+*The virtual store project hasn't been published yet*
+
 - [Website](https://codeverze.com)
 
 ## Challenges
