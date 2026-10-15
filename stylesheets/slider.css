@@ -14,6 +14,16 @@
   transition: opacity 0.5s ease-in-out;
 }
 
+.slider:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 4px;
+  border-radius: 8px;
+}
+
+.slider [hidden] {
+  display: none;
+}
+
 .slider img.active {
   opacity: 1;
   position: relative;
