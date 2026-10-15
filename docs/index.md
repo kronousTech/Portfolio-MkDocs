@@ -14,3 +14,4 @@ If you prefer a more interactive portfolio you can find more info here: [🎮 In
 - 🔗[GitHub](https://github.com/kronousTech)
 - 🔗[LinkedIn](https://www.linkedin.com/in/joão-santos-104182189)
 - 🔗[UpWork](https://www.upwork.com/freelancers/~0123e3d22d308b137c)
+- 🔗[Discord](https://discord.gg/g3Rx4kWm7j)
