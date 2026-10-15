@@ -73,7 +73,7 @@ nav:
   - 📢 Home: index.md
   - 🗃️ Projects:
     - Personal:
-      - BlackBlood (2026 - Present): projects/personal/black-blood.md
+      - BlackBlood: projects/personal/black-blood.md
     - Professional:
       - KendirStudios (2025 - Present):
         - About: projects/professional/kendir-studios/about-kendir-studios.md
