@@ -1,36 +1,37 @@
-# Superbock Casa da Cerveja
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">AR</span>
-  <span class="md-tag">Android</span>
-  <span class="md-tag">iOS</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - AR
+  - Android
+  - iOS
+---
 
-## Role
-Unity Developer
+# Super Bock Casa da Cerveja AR
+
+**Role:** Unity Developer
 
 ## Client
-Super Bock is a Portuguese beer brand from the Super Bock Group brewery, which produces a range of beers under the same name. Established in 1927, Super Bock maintains a leading position in the market, and it is among the favorite beer brands of the Portuguese. It is also the best-selling Portuguese beer in the world.
+Super Bock is Portugal's best-selling beer brand worldwide, produced by the Super Bock Group since 1927.
 
 - [LinkedIn](https://www.linkedin.com/company/superbockgroup/)
-- [Play Store](https://play.google.com/store/apps/details?id=com.YourCompany.SuperBockHouse)
-- [Apple Store](https://apps.apple.com/us/app/casa-da-cerveja-ar/id1500622998)
+- [Google Play](https://play.google.com/store/apps/details?id=com.YourCompany.SuperBockHouse)
+- [App Store](https://apps.apple.com/us/app/casa-da-cerveja-ar/id1500622998)
 
 ## Overview
-Come travel back in time at Super Bock 'Casa da Cerveja', and follow how beer was made in our first brewing room, which now comes to life again through this immersive Augmented Reality experience.
-The Super Bock 'Casa da Cerveja' is a tour circuit located right inside the Super Bock Group Production Center. On this journey through the world of beer, you will learn about its manufacturing process, from the raw materials that give rise to it, to the production of the wort, through fermentation and ending with the filling, where you can hear the clinking of the bottles.
+*Casa da Cerveja* is a visitor tour inside the Super Bock Group production centre. This AR app brings the group's original brewing room back to life, walking visitors through the whole process: raw materials, wort production, fermentation, and bottling.
 
-## Challenges
-The primary challenge for this project came from only being able to test in the museum environment. This constraint made the placement of models in the experience particularly challenging.
+## Challenge
+The experience could only be tested on-site, in the museum. Placing 3D models accurately relative to the real room was slow and hard to iterate on.
 
-## Solutions
-To aid in model placement, we developed a script that calculated the distance between the marker and the developer. This allowed us to save the position for later use during development when adding the models. While not flawless, it significantly expedited and simplified the initial placement of the models.
+## What I Did
+- Built a **developer placement tool** that measured the device's position relative to the AR marker on-site and saved it.
+- Used those saved positions back in the studio to place models in the scene. It wasn't perfect, but it made the initial layout much faster and simpler.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/superbock/super_bock_cover.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/superbock/super_bock_cover.png" alt="Super Bock Casa da Cerveja AR cover" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

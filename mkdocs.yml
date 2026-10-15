@@ -1,12 +1,22 @@
 site_name: João Santos Portfolio
+site_url: https://kronoustech.github.io/Portfolio-MkDocs/
+site_description: Portfolio of João Santos, Unity Game Developer and AR/VR Engineer with 6+ years of shipping games and immersive experiences.
+site_author: João Santos
+repo_url: https://github.com/kronousTech/Portfolio-MkDocs
+repo_name: kronousTech/Portfolio-MkDocs
+edit_uri: ""
+copyright: Copyright &copy; João Santos
 
 extra_css:
-- stylesheets/slider.css
+  - stylesheets/slider.css
+  - stylesheets/extra.css
 extra_javascript:
-- javascripts/slider.js
+  - javascripts/slider.js
 
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     # Dark Mode
     - scheme: slate
@@ -18,7 +28,7 @@ theme:
     # Light Mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
       primary: green
       accent: deep purple
@@ -27,49 +37,77 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - content.code.copy
-    - content.code.annotate
-    - content.code.line_numbers
+    - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
-  
-nav: 
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kronousTech
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/joão-santos-104182189
+      name: LinkedIn
+    - icon: simple/upwork
+      link: https://www.upwork.com/freelancers/~0123e3d22d308b137c
+      name: Upwork
+    - icon: fontawesome/solid/envelope
+      link: mailto:joaosantosprofi@protonmail.com
+      name: Email
+
+nav:
   - 📢 Home: index.md
   - 🗃️ Projects:
-    - 🎮 Personal:
-      - 🩸 BlackBlood 2026 - Present: projects/personal/black-blood.md
-    - 👨‍💼 Professional:
-      - KendirStudios 2025 - Present:
+    - Personal:
+      - BlackBlood (2026 - Present): projects/personal/black-blood.md
+    - Professional:
+      - KendirStudios (2025 - Present):
         - About: projects/professional/kendir-studios/about-kendir-studios.md
-        - Reds 2 3 4: projects/professional/kendir-studios/reds.md
         - Farol: projects/professional/kendir-studios/farol.md
-      - FisipGroup 2023 - 2024:
+        - Reds 2, 3, 4: projects/professional/kendir-studios/reds.md
+      - FisipGroup (2023 - 2024):
         - About: projects/professional/fisipgroup/about-fisipgroup.md
-        - Mower Mayhem: projects/professional/fisipgroup/mower-mayhem.md  
-      - CodeImpact 2023 - 2023:
+        - Mower Mayhem: projects/professional/fisipgroup/mower-mayhem.md
+      - CodeImpact (2023):
         - About: projects/professional/codeimpact/about-codeimpact.md
-        - Drum Keyboard VR: projects/professional/codeimpact/drum-keyboard.md
         - Drone Strike VR: projects/professional/codeimpact/drone-strike-vr.md
-      - Codeverze 2022 - 2024:
+        - Drum Keyboard VR: projects/professional/codeimpact/drum-keyboard.md
+      - Codeverze (2022 - 2024):
         - About: projects/professional/codeverze/about-codeverze.md
-        - Virtual Store: projects/profesprofessionalsinal/codeverze/virtual-store.md
-      - Hivolve 2020 - 2022:
+        - Virtual Store: projects/professional/codeverze/virtual-store.md
+      - hivolve (2020 - 2022):
         - About: projects/professional/hivolve/about-hivolve.md
+        - Ooty AR: projects/professional/hivolve/ooty.md
+        - Super Bock AR: projects/professional/hivolve/superbock.md
+        - Grândola VR: projects/professional/hivolve/grandola-vr.md
+        - Grândola AR: projects/professional/hivolve/grandola-ar.md
+        - Grândola Mupi: projects/professional/hivolve/grandola-mupi.md
+        - Siroco VR: projects/professional/hivolve/siroco.md
         - Adira VR: projects/professional/hivolve/adira-vr.md
-        - Empigest: projects/professional/hivolve/empigest.md
+        - Sabseg VR: projects/professional/hivolve/sabseg.md
         - Essani: projects/professional/hivolve/essani.md
-        - Gold Energy: projects/professional/hivolve/gold-energy.md
-        - Grandola AR: projects/professional/hivolve/grandola-ar.md
-        - Grandola Mupi: projects/professional/hivolve/grandola-mupi.md
-        - Grandola VR: projects/professional/hivolve/grandola-vr.md
-        - Ooty: projects/professional/hivolve/ooty.md
-        - Party Golf: projects/professional/hivolve/party-golf.md
-        - Sabseg: projects/professional/hivolve/sabseg.md
-        - Siroco: projects/professional/hivolve/siroco.md
-        - Superbock: projects/professional/hivolve/superbock.md
-        - Valongo 360: projects/professional/hivolve/valongo-360.md
-  - 🛒 Asset Store Products:
-      - About: asset-store-products/asset-store-products-about.md
-      - Script Dependency Viewer: asset-store-products/script-viewer.md
-      - WebGL FullScreen Template: asset-store-products/webgl-fullscreen-template.md
+        - Empigest VR: projects/professional/hivolve/empigest.md
+        - Early work:
+          - Gold Energy: projects/professional/hivolve/gold-energy.md
+          - Valongo 360: projects/professional/hivolve/valongo-360.md
+          - Party Golf: projects/professional/hivolve/party-golf.md
+  - 🛒 Asset Store:
+    - About: asset-store-products/asset-store-products-about.md
+    - Script Dependency Viewer: asset-store-products/script-viewer.md
+    - WebGL Fullscreen Template: asset-store-products/webgl-fullscreen-template.md
+  - 🏷️ Browse by Tag: tags.md
   - 🎮 Interactive Portfolio: interactive-portfolio.md

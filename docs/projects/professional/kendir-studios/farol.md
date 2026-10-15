@@ -1,18 +1,29 @@
+---
+tags:
+  - Unity
+  - C#
+  - Architecture
+  - Leadership
+---
+
 # Farol
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-</div>
 
-## Role
-Architecture Director, Unity Developer
+**Role:** Architecture Director, Unity Developer
 
-## Overview
-*Due to NDA I can't share information about the project yet*
+!!! info "Under NDA"
+    I can't share details about the game itself yet. This page covers my role and the engineering work.
 
-## Challenges
-Progressed from Unity Developer to Architecture Director on this project, taking responsibility for project planning and providing technical leadership by assigning and overseeing tasks for other developers.
+## My Role
+I joined Farol as a Unity Developer and was promoted to **Architecture Director** during the project. I now own its technical direction:
 
-Led the creation of custom Unity packages to streamline development through internal tools and shared features.
+- **Planning and technical leadership:** break the project into tasks, assign them to developers and oversee their delivery.
+- **Shared Unity packages:** led the creation of custom packages for internal tools and shared features, so related projects reuse the same foundations instead of re-implementing them.
+- **Standards:** established development standards and best practices across related projects for consistency, scalability and maintainability.
 
-Established development standards and best practices across related projects to ensure consistency, scalability, and maintainability.
+<!--
+  TIP: you can make this page much stronger without breaking the NDA, e.g.:
+  - Team size you lead (e.g. "a team of N developers")
+  - How the packages are organised (UPM, assembly definitions, versioning)
+  - What the standards cover (code reviews, naming, branching, folder structure)
+  - Any measurable effect (faster onboarding, less duplicated code, etc.)
+-->

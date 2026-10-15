@@ -1,25 +1,33 @@
+---
+tags:
+  - Unity
+  - C#
+  - Editor Tool
+---
+
 # Script Dependency Viewer
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">Editor Tool</span>
-</div>
 
-## Info
-Script Viewer is a Unity Editor tool that provides a visual, interactive map of all C# scripts within your project’s Assets folder. Designed for developers who want better visibility and control over their codebase, it offers a drag-and-zoom workspace where each script is represented as a movable, clickable node (box) displaying the script's name and namespace.
+## Overview
+Script Dependency Viewer is a Unity Editor tool that draws an interactive map of every C# script in a project's Assets folder. Each script is a movable, clickable node showing its name and namespace, laid out in a drag-and-zoom workspace.
 
-With support for live editing, coloring, and navigation, Script Viewer improves project maintainability and understanding—especially in large or modular Unity projects.
+Nodes can be coloured, edited live and used to jump straight to the code, which makes large or modular projects much easier to understand and maintain.
 
-## You can find it here 
-- [Unity Store Asset](https://assetstore.unity.com/packages/tools/gui/script-dependency-viewer-317391?srsltid=AfmBOorTVU0y4JgZX8j43ttaAMMoaIFYPXGTsjxqqgZaM_uLWXsZS9-w)
+## What I Built
+- A custom Editor window with a pannable, zoomable canvas.
+- Automatic discovery of all scripts in the project, with name and namespace parsing.
+- Node interactions: drag, select, colour-code and navigate to the script.
+- Packaging and submission to the Unity Asset Store, following its publishing guidelines.
+
+## Links
+- [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/script-dependency-viewer-317391)
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../content/asset-store-products/script-viewer/card_image.png">
-  <img src="../../content/asset-store-products/script-viewer/screenshot_5.png">
-  <img src="../../content/asset-store-products/script-viewer/screenshot_3.png">
-  <img src="../../content/asset-store-products/script-viewer/screenshot_4.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../content/asset-store-products/script-viewer/card_image.png" alt="Script Dependency Viewer cover" loading="lazy">
+  <img src="../../content/asset-store-products/script-viewer/screenshot_5.png" alt="Script Dependency Viewer screenshot" loading="lazy">
+  <img src="../../content/asset-store-products/script-viewer/screenshot_3.png" alt="Script Dependency Viewer screenshot" loading="lazy">
+  <img src="../../content/asset-store-products/script-viewer/screenshot_4.png" alt="Script Dependency Viewer screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

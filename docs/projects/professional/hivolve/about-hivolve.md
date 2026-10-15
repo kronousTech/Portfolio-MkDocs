@@ -1,17 +1,23 @@
 # hivolve
 <div class="slider">
-  <img src="../../../content/projects/hivolve/hivolve_cover.jpg">
+  <img src="../../../../content/projects/hivolve/hivolve_cover.jpg" alt="hivolve cover" loading="lazy">
 </div>
 
-hivolve develops XR (VR/AR/MR) experiences to increase business performance. With businesses in Europe & America, working closely with HR, Sales or Marketing executives, hivolve develops solutions for the most renowned private companies and public entities.
+**2020 - 2022 · Intern → Unity Developer**
 
-*No longer in active.*
+hivolve developed XR (VR/AR/MR) experiences for businesses in Europe and America, working with HR, sales and marketing teams at well-known private companies and public entities. *(The company is no longer active.)*
 
 - [LinkedIn](https://www.linkedin.com/company/hivolve/)
 
 ## My Experience
-- Developed and maintained multiple <b>AR/VR</b> and <b>Game</b> applications for different platforms;
-- Created <b>AR</b> applications using API's such as <b>ARCore, ARKit</b> and <b>Vuforia</b>;
-- Developed <b>VR</b> applications for <b>Oculus Quest</b> and <b>HTC Vive</b>;
-- Built databases with <b>Amazon Web Services</b> and established their connections to the applications.
-- Collaborated with artists to integrate <b>2D</b> and <b>3D</b> assets into the game without compromising performance or functionality.
+- Developed and maintained multiple **AR/VR** and **game** applications across platforms.
+- Built **AR** applications with **ARCore**, **ARKit** and **Vuforia**.
+- Built **VR** applications for **Oculus Quest** and **HTC Vive**.
+- Set up databases on **Amazon Web Services** and connected them to the applications.
+- Worked with artists to integrate **2D** and **3D** assets without compromising performance or functionality.
+
+## Highlighted Projects
+- [Ooty AR](ooty.md): cross-platform AR house configurator (published on Google Play)
+- [Super Bock AR](superbock.md): AR museum tour (published on App Store and Google Play)
+- [Grândola VR](grandola-vr.md), [AR](grandola-ar.md) and [Mupi](grandola-mupi.md): a cultural heritage series for the Grândola Municipality
+- [Siroco VR](siroco.md) and [Adira VR](adira-vr.md): industrial machinery showcases

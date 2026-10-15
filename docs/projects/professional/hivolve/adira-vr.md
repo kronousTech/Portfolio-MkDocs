@@ -1,38 +1,43 @@
-# Adira VR
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">VR</span>
-  <span class="md-tag">Android</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - VR
+  - Meta Quest
+  - Android
+  - Optimization
+---
 
-## Role
-Unity Developer
+# Adira VR
+
+**Role:** Unity Developer
 
 ## Client
-ADIRA is a leading manufacturer and global supplier of sheet metal working machinery, specialized in the production of laser cutting machines, hydraulic press brakes, shears, robotized bending cells and automatic sheet metal transforming systems.
+ADIRA is a global manufacturer of sheet-metal working machinery: laser cutters, hydraulic press brakes, shears, robotic bending cells and automated sheet-metal systems.
 
 - [LinkedIn](https://www.linkedin.com/company/adirametalformingsolutions/)
 
 ## Overview
-This project, for HTC Vive, was developed to showcase the client's machinery in intricate detail. The experience unfolds through dynamic animations, allowing users to witness the machines in action. Moreover, the immersive environment empowers users to actively engage with the machinery, allowing them to learn about the production process.
+An interactive VR showcase of the client's machinery. Animated sequences show the machines working, and users can interact with them to learn how the production process works.
 
 ## Technologies
-At first, we planned to use the SteamVR SDK for VR controls and interaction. However, as the project progressed, we switched to the Oculus Plugin because we decided to develop for the Oculus Quest 2 instead.
+The project started on HTC Vive with the **SteamVR SDK**. Midway through, we moved to standalone **Oculus Quest 2** and switched to the **Oculus plugin**.
 
-## Challenges
-Due to the complexity of the machine models, performance issues quickly became present in the project.
+## Challenge
+The machine models were highly complex, and moving to standalone Quest hardware made performance a serious problem.
 
-## Solutions
-To improve performance, several LOD's were created for the models present in the scene. With the addition of LOD's and a downgrade in the quality settings, we managed to maintain a consistent frame rate throughout the experience.
+## What I Did
+- Created **LOD chains** for the heavy machine models.
+- Tuned quality settings for the Quest.
+- Together, these brought the experience to a consistent frame rate throughout.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/adira-vr/screenshot_1.png">
-  <img src="../../../content/projects/hivolve/adira-vr/screenshot_2.png">
-  <img src="../../../content/projects/hivolve/adira-vr/screenshot_3.png">
-  <img src="../../../content/projects/hivolve/adira-vr/screenshot_4.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_1.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_2.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_3.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_4.png" alt="Adira VR screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

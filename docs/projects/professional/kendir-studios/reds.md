@@ -1,25 +1,30 @@
-# Reds 2 3 4
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">WebGL</span>
-  <span class="md-tag">Game</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - WebGL
+  - Game
+---
 
-## Role
-Unity Developer
+# Reds 2, 3, 4
 
-## Overview
-*Due to NDA I can't share information about the project yet*
+**Role:** Unity Developer
 
-## Challenges
-When I joined Kendir Studios, I contributed to an upcoming release by developing new features and game content, as well as fixing bugs to help polish the product for launch. I also created and reworked several internal tools to streamline workflows and significantly speed up development.
+!!! info "Under NDA"
+    I can't share details about the game itself yet. This page covers my contribution.
+
+## My Contribution
+When I joined KendirStudios, I worked on a release that was getting close to launch:
+
+- **Features and content:** developed new gameplay features and game content.
+- **Polish:** fixed bugs to get the product ready for launch.
+- **Tooling:** created and reworked several internal tools, which noticeably sped up the team's development.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/kendir-studios/screenshot_1.png">
-  <img src="../../../content/projects/kendir-studios/screenshot_2.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/kendir-studios/Screenshot_1.png" alt="Reds screenshot" loading="lazy">
+  <img src="../../../../content/projects/kendir-studios/screenshot_2.png" alt="Reds screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

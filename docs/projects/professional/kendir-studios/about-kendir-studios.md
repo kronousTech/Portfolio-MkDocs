@@ -1,18 +1,22 @@
 # KendirStudios
 <div class="slider">
-  <img src="../../../content/projects/kendir-studios/kendir_studios_cover.jpg">
+  <img src="../../../../content/projects/kendir-studios/kendir_studios_cover.jpg" alt="KendirStudios cover" loading="lazy">
 </div>
 
-Educational role playing games and world building development studio based in Porto. Spinning-off Schoolers & Scholars, a research project aimed at identifying and testing the impact of RPGs in education, we are a team dedicated to building massive year-long games for different subjects and integrating educational contents and pedagogical objectives into the narrative and the worlds built.
+**2025 - Present · Unity Developer → Architecture Director**
 
-We aim at taking Game Based Learning to a whole new level, changing the way students learn by creating immersive and engaging scenarios and building games in a way never seen before in the Edutech field!
+A Porto-based studio that builds large, year-long educational role-playing games, spun off from *Schoolers & Scholars*, a research project on the impact of RPGs in education.
 
 - [LinkedIn](https://www.linkedin.com/company/kendir-studios/)
 - [Website](https://www.kendirstudios.pt/)
 
 ## My Experience
-- Developed educational <b>games</b> in Unity for the Portuguese Directorate-General for Education (DGE).
-- Progressed from <b>Unity Developer</b> to <b>Architecture Director</b> taking on high-level planning and technical leadership responsibilities.
-- <b>Led architectural planning</b> for upcoming projects, designing scalable and modular code structures.
-- Built in-game content and internal tools as reusable <b>Custom Unity Packages</b> to streamline workflow.
-- Established <b>development standards</b> and <b>best practices</b> to ensure consistency and efficiency across teams.
+- Developed educational **games** in Unity for the Portuguese Directorate-General for Education (DGE).
+- Promoted from **Unity Developer** to **Architecture Director**, taking on high-level planning and technical leadership.
+- **Lead architectural planning** for upcoming projects, designing scalable, modular code structures.
+- Built in-game content and internal tools as reusable **custom Unity packages** to streamline workflows.
+- Established **development standards** and **best practices** for consistency and efficiency across teams.
+
+## Projects
+- [Farol](farol.md): Architecture Director
+- [Reds 2, 3, 4](reds.md): Unity Developer

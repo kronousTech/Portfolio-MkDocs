@@ -1,40 +1,43 @@
-# Essani
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">WebGL</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - WebGL
+  - Optimization
+---
 
-## Role
-Unity Developer
+# Essani
+
+**Role:** Unity Developer
 
 ## Client
-Essani is specialized in customized lighting products and services for the furniture and architecture industry, as well as for industrial automation.
+Essani specializes in custom lighting products and services for the furniture and architecture industries, and for industrial automation.
 
-- [LinkedIn](https://www.linkedin.com/company/essani-inovação-tecnológica/?originalSubdomain=pt)
+- [LinkedIn](https://www.linkedin.com/company/essani-inovação-tecnológica/)
 - [Website](https://essani.pt)
 
 ## Overview
-The primary objective of this project was to showcase diverse environments illuminated by various types of lighting. This was accomplished through a dynamic exploration of distinct 360-degree images, seamlessly adjusting their presentation in response to the selected lighting conditions.
+A WebGL lighting configurator. Users explore 360° environments (a factory, a house and a store) and switch between lighting setups, with the scene updating to match the selected lighting.
 
-## Challenges
-In embarking on my first WebGL project, I encountered a range of new challenges related to optimization and build sizes. These challenges provided valuable learning opportunities, allowing me to deepen my understanding of WebGL development intricacies and refine my problem-solving skills.
+## Challenge
+Build size and load time. WebGL apps are downloaded in the browser, and the high-resolution 360° images made the build heavy.
 
-## Solutions
-To address the optimization and build size concerns, I began by reducing the quality of various images. In some cases, the default quality was unnecessarily high, and cutting it in half significantly reduced the build size. This adjustment resulted in smoother application performance with almost no noticeable difference in visual quality.
+## What I Did
+- Audited the image assets and found many were imported at far higher quality than the screen could show.
+- Halving the quality on those assets **significantly reduced the build size** and made the app run more smoothly, with almost no visible difference.
 
-## Try it here:
-- [WebGL Build](https://kronoustech.github.io/PortfolioProject-Essani/)
+## Try It
+- [Play the WebGL build](https://kronoustech.github.io/PortfolioProject-Essani/)
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/essani/factory_0.png">
-  <img src="../../../content/projects/hivolve/essani/factory_1.png">
-  <img src="../../../content/projects/hivolve/essani/house_0.png">
-  <img src="../../../content/projects/hivolve/essani/house_1.png">
-  <img src="../../../content/projects/hivolve/essani/store_0.png">
-  <img src="../../../content/projects/hivolve/essani/store_1.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/essani/factory_0.png" alt="Essani factory, lighting option 1" loading="lazy">
+  <img src="../../../../content/projects/hivolve/essani/factory_1.png" alt="Essani factory, lighting option 2" loading="lazy">
+  <img src="../../../../content/projects/hivolve/essani/house_0.png" alt="Essani house, lighting option 1" loading="lazy">
+  <img src="../../../../content/projects/hivolve/essani/house_1.png" alt="Essani house, lighting option 2" loading="lazy">
+  <img src="../../../../content/projects/hivolve/essani/store_0.png" alt="Essani store, lighting option 1" loading="lazy">
+  <img src="../../../../content/projects/hivolve/essani/store_1.png" alt="Essani store, lighting option 2" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

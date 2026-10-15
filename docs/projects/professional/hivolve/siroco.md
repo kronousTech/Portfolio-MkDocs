@@ -1,45 +1,45 @@
-# Siroco
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">VR</span>
-  <span class="md-tag">Android</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - VR
+  - Android
+  - Shaders
+  - Optimization
+---
 
-## Role
-Unity Developer
+# Siroco VR
+
+**Role:** Unity Developer
 
 ## Client
-Siroco develops innovative solutions through the combination of years of expertise, attention to detail and fast responses. Siroco also produces high precision mechanical parts and tools, in small series, with technical expertise.
+Siroco designs innovative engineering solutions and produces high-precision mechanical parts and tools in small series.
 
 - [LinkedIn](https://www.linkedin.com/company/sirocopt/)
 
 ## Overview
-This project was developed for HTC Vive with the purpose of showing the clients machines in high detail as well as containing the necessary information.
+A VR showroom that presents the client's machines in high detail, along with the technical information for each one. It started on HTC Vive with the SteamVR plugin and later moved to the Oculus SDK.
 
-## Technologies
-SteamVR plugin and later in development Oculus SDK.
+## Challenge
+The machine models were very detailed, and showing them while holding a stable VR frame rate was hard.
 
-## Challenges
-Given the intricate details of the machines, maintaining optimal performance became a significant challenge when presenting them and ensuring a stable frame rate.
-
-## Solutions
-To address the optimization challenges, we opted to display only one machine at a time and transition between them this ensured a stable and engaging user experience. This approach led to the creation of a sleek dissolve shader that you can see in action on a video to your right.
+## What I Did
+- Changed the presentation to show **one machine at a time**, which kept rendering cost under control.
+- Wrote a custom **dissolve shader** to transition between machines, which turned the constraint into a polished part of the experience (see the video below).
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/siroco/screenshot_1.png">
-  <img src="../../../content/projects/hivolve/siroco/screenshot_2.png">
-  <img src="../../../content/projects/hivolve/siroco/screenshot_3.png">
-  <img src="../../../content/projects/hivolve/siroco/screenshot_4.png">
-  <img src="../../../content/projects/hivolve/siroco/screenshot_5.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/siroco/screenshot_1.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/screenshot_2.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/screenshot_3.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/screenshot_4.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/screenshot_5.png" alt="Siroco VR screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>
 
-### Machine Transition
+### Machine Transition (dissolve shader)
 <video controls preload="metadata" width="100%">
-    <source src="../../../content/projects/hivolve/siroco/transition.mp4"
-  type="video/mp4">
+  <source src="../../../../content/projects/hivolve/siroco/transition.mp4" type="video/mp4">
 </video>

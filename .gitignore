@@ -1,0 +1,19 @@
+# Built site
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db

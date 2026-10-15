@@ -1,30 +1,29 @@
-# Valongo 360
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">VR</span>
-  <span class="md-tag">Android</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - VR
+  - Android
+---
 
-## Role
-Unity Developer
+# Valongo 360
+
+**Role:** Unity Developer
+
+## Client
+Valongo Municipality (Câmara Municipal de Valongo).
 
 ## Overview
-This project was developed for the Valongo Municipal Chamber to showcase the city's rich tourist appeal. Its primary objective was to vividly portray the diverse attractions and cultural gems that contribute to the city's unique allure.
+A VR tourism experience that presents the city's attractions and cultural highlights through a series of immersive 360° videos.
 
-The narrative unfolded through a captivating series of immersive 360-degree videos.
-
-## Challenges
-The challenge in this project was to showcase a 360º video within a sphere, creating a fully immersive viewing experience.
-
-## Solutions
-To address this, we implemented a solution by incorporating a render texture into the sphere material. This render texture was also applied to the video player. While in retrospect, this solution seems straightforward, at the time, with less experience in Unity, it took some time to figure out.
+## What I Did
+- Built the **360° video player**: a video player renders into a render texture, which is applied to the material of an inward-facing sphere around the viewer.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/valongo-360/screenshot_1.png">
-  <img src="../../../content/projects/hivolve/valongo-360/screenshot_2.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/valongo-360/screenshot_1.png" alt="Valongo 360 screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/valongo-360/screenshot_2.png" alt="Valongo 360 screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

@@ -1,41 +1,40 @@
-# Sabseg
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">VR</span>
-  <span class="md-tag">Game</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - VR
+  - SteamVR
+  - Game
+---
 
-## Role
-Unity Developer
+# Sabseg VR
+
+**Role:** Unity Developer
 
 ## Client
-SABSEG is an insurance broker that sponsors several football clubs of the 1st and 2nd division of Portuguese. As part of one of its “Celebrate Football” initiatives, hivolve challenged SABSEG to carry out a brand activation using Virtual Reality in the stadiums of sponsored clubs.
+SABSEG is an insurance broker that sponsors several clubs in Portugal's first and second football divisions. For its *Celebrate Football* initiative, hivolve created a VR brand activation that ran in the stadiums of the sponsored clubs.
 
 - [LinkedIn](https://www.linkedin.com/company/sabseg/)
 
 ## Overview
-In this innovative project, we crafted new immersive environments, including various football stadiums, diverse player scenarios, and dynamic weather conditions. The core experience revolves around the user's objective of defending penalties, each successful defense resulting in a rewarding outcome.
+A VR penalty-saving game. The player is the goalkeeper and tries to stop penalties, with a reward for each save. We built several football stadiums, different player scenarios and dynamic weather conditions.
 
 ## Technologies
 SteamVR Plugin.
 
-## Challenges
-As my initial venture into VR development, the most significant challenge revolved around grasping the workings of VR components.
-
-## Solutions
-To comprehend the intricacies of the SteamVR plugin, I extensively read its documentation and experimented with the pre-built scenes included in the plugin. This hands-on approach provided a clearer understanding of its capabilities and functioning.
+## What I Did
+- This was my first VR project. I got up to speed with SteamVR by studying its documentation and taking apart its example scenes.
+- Used that knowledge to build the VR goalkeeping gameplay on top of the plugin.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/sabseg/screenshot_1.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/sabseg/screenshot_1.png" alt="Sabseg VR screenshot" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>
 
 ### Promotion Video
 <video controls preload="metadata" width="100%">
-    <source src="../../../content/projects/hivolve/sabseg/intro.mp4"
-  type="video/mp4">
+  <source src="../../../../content/projects/hivolve/sabseg/intro.mp4" type="video/mp4">
 </video>

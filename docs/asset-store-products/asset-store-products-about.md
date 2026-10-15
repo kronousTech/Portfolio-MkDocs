@@ -1,8 +1,8 @@
 # Asset Store Products
 
 ## 🛠 Unity Asset Store Contributions
-I’ve created custom tools, packages, and assets for Unity developers, focused on workflow efficiency, modularity, and reusability. These assets reflect my experience in building scalable systems and editor tooling across multiple projects and platforms.
+I publish editor tools and packages for other Unity developers, focused on workflow speed, modularity and reuse. They grew out of tooling I kept rebuilding across client projects.
 
 ## Products
-- [Script Dependency Viewer](script-viewer.md)
-- [WebGL Fullscreen Template](webgl-fullscreen-template.md)
+- [Script Dependency Viewer](script-viewer.md): an interactive node map of every C# script in a project.
+- [WebGL Fullscreen Template](webgl-fullscreen-template.md): a WebGL template that makes builds fill the browser window.

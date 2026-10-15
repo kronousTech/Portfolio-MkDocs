@@ -1,17 +1,22 @@
 # Codeverze
 <div class="slider">
-  <img src="../../../content/projects/codeverze/logo.png">
+  <img src="../../../../content/projects/codeverze/logo.png" alt="Codeverze logo" loading="lazy">
 </div>
 
-Our team at Meridian Pulse(codeverze) uses the latest technologies to develop high-quality responsive, personalized, and pixel-perfect designs for our clients. 
+**2022 - 2024 · Unity Developer**
 
-From e-commerce to large-scale web and mobile applications, we help organizations, businesses, and individuals to effectively market and enhance their digital presence. Through custom solutions, access to a reliable team, and fast delivery, our team offers extensive end-to-end expertise to ensure an excellent client experience.
+<!-- TIP: if this role ran in parallel with FisipGroup/CodeImpact, say so here (e.g. "Contract" or "Part-time") so the overlapping dates don't raise questions. -->
+
+Codeverze is a product of Meridian Pulse, a web and mobile development agency building e-commerce and large-scale applications for its clients.
 
 - [LinkedIn](https://www.linkedin.com/company/meridian-pulse/)
-- [Website Meridian Pulse](https://meridianpulse.com)
-- [Website Codeverze](https://codeverze.com)
+- [Meridian Pulse website](https://meridianpulse.com)
+- [Codeverze website](https://codeverze.com)
 
 ## My Experience
-- Developed the frontend side of <b>WebGL</b> applications.
-- Integrated <b>API</b> into project, creating the connection between backend and frontend.
-- Collaborated with artists to develop the application's UI.
+- Developed the frontend of **WebGL** applications.
+- Integrated the backend **API**, connecting the Unity frontend to the platform's data.
+- Collaborated with artists on the application's UI.
+
+## Projects
+- [Virtual Store](virtual-store.md)

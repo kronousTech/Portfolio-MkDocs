@@ -1,36 +1,35 @@
-# Empigest
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">VR</span>
-  <span class="md-tag">Android</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - VR
+  - Android
+---
 
-## Role
-Unity Developer
+# Empigest VR
+
+**Role:** Unity Developer
 
 ## Client
-EMPIGEST started its activity in 2007, as a result of the enormous desire of a group of professionals in the forklift market to create a different project, based on the quality of the services provided, regardless of the brands assisted and the size of the customer.
+EMPIGEST has serviced forklifts and industrial machines since 2007, regardless of brand or customer size.
 
 - [LinkedIn](https://www.linkedin.com/company/empigest---comércio-e-serviços-de-máquinas-industriais-lda/)
 
 ## Overview
-This project was designed with the intent of showcasing the operational prowess of EMPIGEST's autonomous machines—innovative technologies that function seamlessly without the necessity of direct human control.
+A mobile VR experience (Google VR SDK) that shows EMPIGEST's autonomous machines working on their own, with no direct human control.
 
-## Technologies
-The project was developed for Google VR using its SDK for Unity.
+## Challenge
+Several autonomous machines had to operate in the same scene at once without interfering with each other.
 
-## Challenges
-In this project, I faced the task of making different machines work together smoothly. It was one of my first professional projects, and ensuring that these components didn't interfere with each other negatively proved to be quite a challenge.
-
-## Solutions
-To tackle this issue, I had to enhance my programming skills and develop the behavior of each machine with minimal dependencies to ensure a straightforward and smooth-running system.
+## What I Did
+- Wrote each machine's behaviour as a **self-contained component with minimal dependencies** on the others.
+- This kept the simulation predictable and easy to extend with new machines.
 
 ## Media
 <div class="slider">
-  <button class="prev"><-</button>
-  <img src="../../../content/projects/hivolve/empigest/scenario_1.png">
-  <img src="../../../content/projects/hivolve/empigest/scenario_2.png">
-  <button class="next">-></button>
+  <button class="prev" aria-label="Previous image">&larr;</button>
+  <img src="../../../../content/projects/hivolve/empigest/scenario_1.png" alt="Empigest VR scenario" loading="lazy">
+  <img src="../../../../content/projects/hivolve/empigest/scenario_2.png" alt="Empigest VR scenario" loading="lazy">
+  <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

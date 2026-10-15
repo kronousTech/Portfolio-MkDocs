@@ -1,23 +1,23 @@
-# Virtual Store
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">WebGL</span>
-  <span class="md-tag">API Integration</span>
-  <span class="md-tag">Game</span>
-</div>
+---
+tags:
+  - Unity
+  - C#
+  - WebGL
+  - API Integration
+---
 
-## Role
-Unity Developer
+# Virtual Store
+
+**Role:** Unity Developer
 
 ## Overview
-Codeverze was a platform that allowed clients to upload products online, which were then displayed within the Codeverze WebGL build as part of an interactive online store. The application was designed to showcase multiple online shops within a shared virtual environment, enabling users to browse products and make purchases directly inside the virtual world.
+Codeverze is a platform where businesses upload their products online and have them displayed inside a shared WebGL virtual world. Users walk between several online shops, browse products and buy them without leaving the experience.
 
-*The virtual store project hasn't been published yet*
+*The virtual store hasn't been published yet.*
 
-- [Website](https://codeverze.com)
+- [Codeverze website](https://codeverze.com)
 
-## Challenges
-On this project, I was responsible for integrating the API and updating the frontend accordingly. As this was my first time doing so in a professional setting, it proved to be a significant learning experience, especially working alongside the Meridian Pulse team.
-
-I was also in charge of implementing player movement and interaction within the store environment and its products, as well as developing tools such as object placement within the scene during playtime.
+## What I Did
+- **API integration:** connected the Unity WebGL frontend to the platform's backend so uploaded products appear in the stores, working closely with the Meridian Pulse backend team.
+- **Player experience:** implemented player movement and interaction with the store environment and its products.
+- **Tools:** built runtime tools such as placing objects in the scene during play.

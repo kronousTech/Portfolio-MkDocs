@@ -1,26 +1,24 @@
+---
+tags:
+  - Unity
+  - WebGL
+  - HTML/CSS
+---
+
 # WebGL Fullscreen Template
-<div class="tags">
-  <span class="md-tag">Unity</span>
-  <span class="md-tag">C#</span>
-  <span class="md-tag">WebGL</span>
-</div>
 
-## Info
-A simple package with a WebGL template to make your build screen adapt to the browsers window size
+## Overview
+A lightweight Unity WebGL template that makes the build canvas resize to fill the browser window, instead of Unity's default fixed-size frame.
 
-## Challenges
-The primary challenge in developing this package was the lack of experience with the HTML programming language.
+## What I Built
+- A custom WebGL template (HTML/CSS/JS) that scales the Unity canvas responsively with the browser window.
+- A drop-in package: import it, select the template in Player Settings, and build.
+- Published to the Unity Asset Store, which meant working through Unity's packaging and review guidelines.
 
-## Solutions
-As a solution, I delved into grasping the fundamentals of HTML programming, engaging in numerous trial-and-error attempts until I successfully developed a functional template.
-
-## Lessons
-In the process of publishing my package on the Unity Asset Store, I gained valuable insights into Unity's publishing guidelines. Additionally, delving into the code behind the WebGL templates provided me with a comprehensive understanding of the technical aspects involved in it.
-
-## You can find it here 
-- [Unity Store Asset](https://assetstore.unity.com/packages/tools/utilities/webgl-fullscreen-template-243280)
+## Links
+- [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/webgl-fullscreen-template-243280)
 
 ## Media
 <div class="slider">
-  <img src="../../content/asset-store-products/webgl-fullscreen-template/card_image.png">
+  <img src="../../content/asset-store-products/webgl-fullscreen-template/card_image.png" alt="WebGL Fullscreen Template cover" loading="lazy">
 </div>
