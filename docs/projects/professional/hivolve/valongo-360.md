@@ -22,8 +22,8 @@ A VR tourism experience that presents the city's attractions and cultural highli
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/valongo-360/screenshot_1.png" alt="Valongo 360 screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/valongo-360/screenshot_2.png" alt="Valongo 360 screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/valongo-360/Screenshot_1.png" alt="Valongo 360 screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/valongo-360/Screenshot_2.png" alt="Valongo 360 screenshot" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

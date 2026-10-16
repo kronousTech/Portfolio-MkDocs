@@ -33,25 +33,25 @@ I wrote a procedural word-search generator:
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/grandola-mupi/screenshot_5.png" alt="Grândola Mupi screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-mupi/screenshot_1.png" alt="Grândola Mupi screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-mupi/screenshot_2.png" alt="Grândola Mupi screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-mupi/screenshot_3.png" alt="Grândola Mupi screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-mupi/Screenshot_5.png" alt="Grândola Mupi screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-mupi/Screenshot_1.png" alt="Grândola Mupi screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-mupi/Screenshot_2.png" alt="Grândola Mupi screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-mupi/Screenshot_3.png" alt="Grândola Mupi screenshot" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>
 
 ### Clay Game
 <video controls preload="metadata" width="100%">
-  <source src="../../../../content/projects/hivolve/grandola-mupi/barro.mp4" type="video/mp4">
+  <source src="../../../../content/projects/hivolve/grandola-mupi/Barro.mp4" type="video/mp4">
 </video>
 
 ### Info Game
 <video controls preload="metadata" width="100%">
-  <source src="../../../../content/projects/hivolve/grandola-mupi/info.mp4" type="video/mp4">
+  <source src="../../../../content/projects/hivolve/grandola-mupi/Info.mp4" type="video/mp4">
 </video>
 
 ### Word Search Game
 <video controls preload="metadata" width="100%">
-  <source src="../../../../content/projects/hivolve/grandola-mupi/words.mp4" type="video/mp4">
+  <source src="../../../../content/projects/hivolve/grandola-mupi/Words.mp4" type="video/mp4">
 </video>

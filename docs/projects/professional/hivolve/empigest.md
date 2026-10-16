@@ -28,8 +28,8 @@ Several autonomous machines had to operate in the same scene at once without int
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/empigest/scenario_1.png" alt="Empigest VR scenario" loading="lazy">
-  <img src="../../../../content/projects/hivolve/empigest/scenario_2.png" alt="Empigest VR scenario" loading="lazy">
+  <img src="../../../../content/projects/hivolve/empigest/Scenario_1.png" alt="Empigest VR scenario" loading="lazy">
+  <img src="../../../../content/projects/hivolve/empigest/Scenario_2.png" alt="Empigest VR scenario" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

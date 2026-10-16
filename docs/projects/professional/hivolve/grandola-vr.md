@@ -25,10 +25,10 @@ It is a long, guided experience made of many sequential tasks. Each task needed 
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/grandola-vr/screenshot_3.png" alt="Grândola VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-vr/screenshot_1.png" alt="Grândola VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-vr/screenshot_2.png" alt="Grândola VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/grandola-vr/screenshot_4.png" alt="Grândola VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-vr/Screenshot_3.png" alt="Grândola VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-vr/Screenshot_1.png" alt="Grândola VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-vr/Screenshot_2.png" alt="Grândola VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/grandola-vr/Screenshot_4.png" alt="Grândola VR screenshot" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

@@ -30,16 +30,16 @@ The machine models were very detailed, and showing them while holding a stable V
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/siroco/screenshot_1.png" alt="Siroco VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/siroco/screenshot_2.png" alt="Siroco VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/siroco/screenshot_3.png" alt="Siroco VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/siroco/screenshot_4.png" alt="Siroco VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/siroco/screenshot_5.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/Screenshot_1.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/Screenshot_2.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/Screenshot_3.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/Screenshot_4.png" alt="Siroco VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/siroco/Screenshot_5.png" alt="Siroco VR screenshot" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>
 
 ### Machine Transition (dissolve shader)
 <video controls preload="metadata" width="100%">
-  <source src="../../../../content/projects/hivolve/siroco/transition.mp4" type="video/mp4">
+  <source src="../../../../content/projects/hivolve/siroco/Transition.mp4" type="video/mp4">
 </video>

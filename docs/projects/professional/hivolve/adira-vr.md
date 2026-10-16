@@ -34,10 +34,10 @@ The machine models were highly complex, and moving to standalone Quest hardware 
 ## Media
 <div class="slider">
   <button class="prev" aria-label="Previous image">&larr;</button>
-  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_1.png" alt="Adira VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_2.png" alt="Adira VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_3.png" alt="Adira VR screenshot" loading="lazy">
-  <img src="../../../../content/projects/hivolve/adira-vr/screenshot_4.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/Screenshot_1.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/Screenshot_2.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/Screenshot_3.png" alt="Adira VR screenshot" loading="lazy">
+  <img src="../../../../content/projects/hivolve/adira-vr/Screenshot_4.png" alt="Adira VR screenshot" loading="lazy">
   <button class="next" aria-label="Next image">&rarr;</button>
   <div class="counter"></div>
 </div>

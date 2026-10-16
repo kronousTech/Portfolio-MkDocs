@@ -36,5 +36,5 @@ SteamVR Plugin.
 
 ### Promotion Video
 <video controls preload="metadata" width="100%">
-  <source src="../../../../content/projects/hivolve/sabseg/intro.mp4" type="video/mp4">
+  <source src="../../../../content/projects/hivolve/sabseg/Intro.mp4" type="video/mp4">
 </video>
